@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **Jackeylov333/Jackeylov333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![My github stats](https://github-readme-stats.vercel.app/api?username=Jackeylov333&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackeylov333&bg_color=151515&theme=dark)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Jackeylov333&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## My Skills(Expanding……)
+
+[![My Skills](https://skillicons.dev/icons?i=c,py,java,md,vue,mysql,go,git,github,vscode,idea,ps,pr)](https://skillicons.dev)
