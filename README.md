@@ -17,8 +17,11 @@ Here are some ideas to get you started:
 
 ![My Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jackeylov333&bg_color=151515&theme=dark)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jackeylov333&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+## Pinned
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jackeylov333&repo=SE-II-VIEW&theme=highcontrast)](https://github.com/Jackeylov333/SE-II-VIEW)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-## My Skills(Expanding……)
+
+## My Skills (Expanding……)
 
 [![My Skills](https://skillicons.dev/icons?i=c,py,java,md,vue,mysql,go,git,github,vscode,idea,ps,pr)](https://skillicons.dev)
